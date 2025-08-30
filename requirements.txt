@@ -1,0 +1,12 @@
+langchain
+langchain_pinecone
+langchain_openai
+langchain_community
+pypdf
+flask
+os
+logging
+pathlib
+sentence-transformers
+python-dotenv
+-e .

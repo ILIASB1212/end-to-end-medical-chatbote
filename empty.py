@@ -1,0 +1,1 @@
+print("this is an medical chat bot that answer base on pdf book contain 600 page of information ")
